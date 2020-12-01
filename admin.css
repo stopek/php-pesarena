@@ -1,0 +1,1493 @@
+/* ustawienie naglowkow w tabelach CP*/
+table.adminFullTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0px 10px 0px;
+    clear: both;
+}
+
+table.adminFullTableOF {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table.adminFullTable th {
+    height: 23px;
+}
+
+table.adminFullTable tr td {
+    padding-bottom: 5px;
+    height: 25px;
+    padding-left: 5px;
+    border: 1px solid #525253;
+}
+
+table.adminFullTable tr td span {
+    float: right;
+    margin-right: 5px;
+}
+
+table.adminFullTable tr td span span.cupStatus {
+    font-weight: bolder;
+}
+
+table.adminFullTable tr td span span.cupStatus span.cErro {
+    color: red;
+}
+
+table.adminFullTable tr td span span.cupStatus span.cConf {
+    color: green;
+}
+
+table.adminFullTable tr td span span.cupStatus span.cNorm {
+    color: #fff;
+}
+
+table.adminFullTable tr td strong {
+    font-size: 12px;
+    color: #afafaf;
+    padding: 20px 0px 20px 0px;
+}
+
+table.adminFullTable tr td.leagueTdStyle {
+    width: 140px;
+
+}
+
+table thead.adminHeadersClass {
+    background: url(img/nag_admin.gif);
+    height: 23px;
+    font-family: verdana;
+}
+
+table thead.adminHeadersClass-silver {
+    background: url(img/nag_admin_bot.gif);
+    height: 23px;
+    font-family: verdana;
+    color: #626262;
+}
+
+table tbody tr.tableColorA {
+    background: #2a292e;
+}
+
+table tbody tr.tableColorA:hover {
+    background: #394a28;
+}
+
+table tbody tr.tableColorB {
+    background: #3f3e42;
+}
+
+table tbody tr.tableColorB:hover {
+    background: #394a28;
+}
+
+
+/* pola z zaznacz wszystkie i odznacz wszsytkie*/
+div.smallField {
+    float: right;
+    width: auto;
+    height: 30px;
+    display: table;
+    margin-bottom: 10px;
+    clear: both;
+}
+
+div.smallField div {
+    width: 160px;
+    float: left;
+    background: #343434;
+}
+
+div.smallField div fieldset {
+    margin: 5px;
+    text-align: right;
+}
+
+div.smallField div fieldset legend {
+    font-size: 9px;
+    font-family: verdana;
+}
+
+div.smallField div fieldset ul li {
+    float: left;
+    width: 56px;
+    height: 21px;
+    margin: 5px;
+    cursor: pointer;
+    cursor: hand;
+}
+
+div.smallField div fieldset ul li.select {
+    background: url(grafiki/admin_ikons/selectAll.gif);
+}
+
+div.smallField div fieldset ul li.select:hover {
+    background: url(grafiki/admin_ikons/selectAllHover.gif);
+}
+
+div.smallField div fieldset ul li.unselect {
+    background: url(grafiki/admin_ikons/unselectAll.gif);
+}
+
+div.smallField div fieldset ul li.unselect:hover {
+    background: url(grafiki/admin_ikons/unselectAllHover.gif);
+}
+
+div.smallField div fieldset form.smallInputs input[type=text] {
+    width: 30px;
+}
+
+div.smallField div fieldset li.showAll a {
+    padding: 15px 50px 10px 50px;
+    background: url(grafiki/admin_img/showAllParty.gif) no-repeat center bottom;
+}
+
+div.smallField div fieldset li.showOnce a {
+    padding: 15px 50px 10px 50px;
+    background: url(grafiki/admin_img/showOnce.gif) no-repeat center bottom;
+}
+
+
+/* ustawienie wyboru wersji gry */
+div.versionPanel {
+    width: 600px;
+    background: #313131;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 12px;
+    padding-top: 14px;
+    clear: both;
+}
+
+div.versionPanel a {
+    color: white;
+}
+
+div.versionPanel div.header {
+    width: 600px;
+    height: 21px;
+    background: url(grafiki/admin_img/changeVersionGameHeader.gif) no-repeat;
+    text-align: center;
+    font-size: 11px;
+}
+
+div.versionPanel li {
+    text-align: left;
+    height: 20px;
+    background: #323c29;
+    margin: 11px -3px 11px -3px;
+    padding-top: 6px;
+    padding-right: 5px;
+}
+
+div.versionPanel li span {
+    margin: 10px;
+}
+
+div.versionPanel li em a {
+    float: right;
+    background: url(grafiki/admin_img/changeVersionGameGo.gif) no-repeat;
+    padding: 2px 29px 9px 0px;
+}
+
+
+/* configuration administration panel */
+#adminControlPanel {
+    margin: auto;
+    padding: 0px;
+    width: 1077px;
+}
+
+#adminControlPanel ul.adminPage {
+    background: #2c2c2c;
+    width: 1077px;
+    color: white;
+    font-size: 10px;
+    font-family: verdana;
+    text-align: left;
+    display: inline-table;
+}
+
+#adminControlPanel li.adminTop {
+    background: url(img/n_admin_top.jpg) no-repeat;
+    height: 138px;
+    width: 1077px;
+}
+
+#adminControlPanel li.adminTop ul#jquery_tooltip {
+    margin: auto;
+}
+
+#adminControlPanel li.adminTop ul#jquery_tooltip li {
+    float: left;
+    margin-left: 7px;
+    margin-top: 35px;
+}
+
+#adminControlPanel li.adminTop ul#jquery_tooltip li a {
+    padding: 0px 0px 88px 75px;
+}
+
+/* menu glowne ikony */
+li.adminTop ul#jquery_tooltip a#admini {
+    background: url(grafiki/admin_buttony/admin_button_admini.jpg);
+}
+
+li.adminTop ul#jquery_tooltip a#druzyny {
+    background: url(grafiki/admin_buttony/admin_button_druzyny.jpg);
+}
+
+li.adminTop ul#jquery_tooltip a#gry {
+    background: url(grafiki/admin_buttony/admin_button_gry.jpg);
+}
+
+li.adminTop ul#jquery_tooltip a#ip {
+    background: url(grafiki/admin_buttony/admin_button_ip.jpg);
+}
+
+li.adminTop ul#jquery_tooltip a#liga {
+    background: url(grafiki/admin_buttony/admin_button_liga.jpg);
+}
+
+li.adminTop ul#jquery_tooltip a#newsy {
+    background: url(grafiki/admin_buttony/admin_button_newsy.jpg);
+}
+
+li.adminTop ul#jquery_tooltip a#pkt {
+    background: url(grafiki/admin_buttony/admin_button_pkt.jpg);
+}
+
+li.adminTop ul#jquery_tooltip a#puchar {
+    background: url(grafiki/admin_buttony/admin_button_puchar.jpg);
+}
+
+li.adminTop ul#jquery_tooltip a#rankingi {
+    background: url(grafiki/admin_buttony/admin_button_rankingi.jpg);
+}
+
+li.adminTop ul#jquery_tooltip a#sonda {
+    background: url(grafiki/admin_buttony/admin_button_sonda.jpg);
+}
+
+li.adminTop ul#jquery_tooltip a#turniej {
+    background: url(grafiki/admin_buttony/admin_button_turniej.jpg);
+}
+
+li.adminTop ul#jquery_tooltip a#uzytkownicy {
+    background: url(grafiki/admin_buttony/admin_button_uzytkownicy.jpg);
+}
+
+li.adminTop ul#jquery_tooltip a#wyzwania {
+    background: url(grafiki/admin_buttony/admin_button_wyzwania.jpg);
+}
+
+li.adminTop ul#jquery_tooltip li a:hover {
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.8;
+    -khtml-opacity: 0.8;
+    opacity: 0.8;
+}
+
+#adminControlPanel div.adminLogout {
+    position: absolute;
+    margin: 10px 0px 0px 20px;
+
+}
+
+#adminControlPanel li.adminMenu {
+    background: url(img/n_admin_menu_bg.gif);
+    height: 24px;
+    width: 1077px;
+
+}
+
+#adminControlPanel li.adminMenu ul li {
+    float: left;
+    margin: 3px 3px 0px 16px;
+}
+
+#adminControlPanel li.adminMenu a {
+    color: #002829;
+    font-family: tahoma;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+#adminControlPanel li.adminMenu a:hover {
+    color: #034244;
+}
+
+#adminControlPanel li.adminMenu div {
+
+}
+
+#adminControlPanel li.helpMenu {
+    height: 22px;
+    background: #262626;
+    width: 1030px;
+    text-align: right;
+    padding-top: 8px;
+    padding-right: 47px;
+    font-size: 11px;
+    color: #008286;
+    clear: both;
+    border-top: 1px solid #3c3b3e;
+}
+
+#adminControlPanel li.helpMenu div.shortCutUL {
+    float: right;
+    height: 22px;
+}
+
+#adminControlPanel li.helpMenu div.shortCutUL ul li {
+    float: left;
+    margin-left: 15px;
+}
+
+#adminControlPanel li.helpMenu div.change_game_on {
+    float: left;
+    width: 91px;
+    text-align: left;
+    color: #1b3600;
+    font-size: 11px;
+    height: 15px;
+    padding-top: 5px;
+    margin-top: 2px;
+    text-align: center;
+    background: url(grafiki/admin_img/wybrana_gra_cp.gif);
+}
+
+#adminControlPanel li.helpMenu div.change_game_on a {
+    padding: 7px 5px 8px 5px;
+    color: #244206;
+}
+
+#adminControlPanel li.helpMenu div.change_game_off a {
+    padding: 7px 5px 8px 5px;
+    color: #9f9d9d;
+}
+
+#adminControlPanel li.helpMenu div.change_game_off {
+    float: left;
+    width: 91px;
+    text-align: left;
+    font-size: 11px;
+    height: 15px;
+    margin-top: 2px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+#adminControlPanel li.helpMenu div.change_game_off:hover {
+    color: #1b3600;
+    background: url(grafiki/admin_img/wybrana_gra_cp_hover.gif);
+    cursor: hand;
+    cursor: pointer;
+}
+
+#adminControlPanel li.helpMenu div.change_game_off:hover a {
+    color: #003a3b;
+}
+
+#adminControlPanel li.helpMenu div#devil {
+    padding: 64px;
+    background: url(grafiki/admin_img/admin_maskotka.png) no-repeat;
+    position: absolute;
+    float: left;
+    margin-top: -125px;
+    margin-left: -120px;
+}
+
+#adminControlPanel li.adminFooter {
+    background: url(img/n_admin_footer.jpg);
+    height: 19px;
+    width: 1067px;
+    clear: both;
+    text-align: right;
+    color: #204000;
+    padding: 4px 10px 0px 0px;
+}
+
+
+/* glowny blok w panelu */
+ul.glowne_bloki {
+    width: 580px;
+    margin: auto;
+    margin: 20px auto 10px;
+}
+
+ul.vFull {
+    width: 90%;
+    margin: 10px 5% 10px 5%;
+}
+
+/* standardowy typ naglowka */
+ul.glowne_bloki li.glowne_bloki_naglowek {
+    background: url(img/nag_admin.gif);
+    color: white;
+    height: 23px;
+    text-align: right;
+    line-height: 13px;
+    padding-right: 10px;
+}
+
+/* naglowek legenda */
+ul.glowne_bloki li.legenda {
+    background: url(img/nag_admin_legenda.gif);
+    font-weight: bolder;
+    text-transform: uppercase;
+    padding-top: 3px;
+    height: 20px;
+    border-top: 2px solid #780000;
+}
+
+/* naglowek bot */
+ul.glowne_bloki li.bot {
+    background: url(img/nag_admin_bot.gif);
+    font-weight: bolder;
+    text-transform: uppercase;
+    padding-top: 3px;
+    height: 20px;
+    color: #626262;
+    border-top: 2px solid #c8c7c7;
+}
+
+ul.glowne_bloki div.description {
+    clear: both;
+    margin: 5px;
+    float: right;
+    text-align: right;
+}
+
+ul.glowne_bloki div.description span {
+    color: #848484;
+}
+
+ul.glowne_bloki div.description img.dangerous_option {
+    width: 20px;
+    height: 20px;
+}
+
+ul.glowne_bloki li.legenda span {
+    background: url(grafiki/admin_ikons/legenda.png) no-repeat;
+    padding: 0px 0px 15px 15px;
+}
+
+ul.glowne_bloki ul.legendaUL li {
+    height: 20px;
+    margin-top: 1px;
+    color: #b6b6b6;
+}
+
+ul.glowne_bloki ul.legendaUL li em {
+    float: right;
+    margin-right: 30px;
+    color: white;
+}
+
+ul.glowne_bloki ul.legendaUL li span {
+    margin: 30px;
+}
+
+ul.glowne_bloki ul.legendaUL li.c1 {
+    border-top: 1px solid #3d3c3c;
+    border-left: 1px solid #3d3c3c;
+    background: #343434;
+    width: 100%;
+    padding-top: 3px;
+}
+
+ul.glowne_bloki ul.legendaUL li.c2 {
+    border-top: 1px solid #3c3c3c;
+    border-left: 1px solid #3c3c3c;
+    background: #2c2c2c;
+    width: 100%;
+    padding-top: 3px;
+}
+
+
+ul.glowne_bloki .glowne_bloki_zawartosc {
+    display: inline-table;
+    background: #303030;
+    padding: 5px;
+    width: 570px;
+}
+
+ul.glowne_bloki .glowne_bloki_zawartosc input[type=text],
+ul.glowne_bloki .glowne_bloki_zawartosc select {
+    border: 1px solid #ffffff;
+    background: #dfdfdf;
+    height: 15px;
+}
+
+ul.glowne_bloki .glowne_bloki_zawartosc select {
+    height: 19px;
+    min-width: 150px;
+}
+
+ul.glowne_bloki .glowne_bloki_zawartosc input[type=text]:focus,
+ul.glowne_bloki .glowne_bloki_zawartosc select:focus {
+    background: #ffffff;
+}
+
+ul.glowne_bloki .glowne_bloki_zawartosc input[type=text]:hover,
+ul.glowne_bloki .glowne_bloki_zawartosc select:hover {
+    background: #ffffff;
+}
+
+ul.glowne_bloki .glowne_bloki_zawartosc textarea {
+    border: 1px solid #ffffff;
+    background: #dfdfdf;
+    height: 100px;
+    margin-left: 2px;
+    font: 10px verdana;
+    color: black;
+}
+
+ul.glowne_bloki .glowne_bloki_zawartosc textarea:focus {
+    background: #ffffff;
+}
+
+ul.glowne_bloki .glowne_bloki_zawartosc textarea:hover {
+    background: #ffffff;
+}
+
+ul.glowne_bloki ul.legenda li {
+    height: 23px;
+    margin-top: 3px;
+}
+
+ul.glowne_bloki fieldset.adminAccessList legend {
+    color: #cccccc;
+    margin-bottom: 5px;
+}
+
+fieldset.adminAccessList {
+    border: 0px;
+    border-top: 1px solid #3f3e42;
+    border-left: 1px solid #3f3e42;
+    background: #343434;
+    padding: 0px;
+}
+
+ul.glowne_bloki fieldset.leagueManager {
+    padding: 5px 0px 10px 0px;
+}
+
+ul.glowne_bloki fieldset.adminAccessList span.downIkon a {
+    padding: 13px 20px 20px 10px;
+    background: url(grafiki/admin_ikons/down_ikon.png) no-repeat center;
+    float: right;
+
+}
+
+ul.glowne_bloki fieldset.adminAccessList span.downIkon a:hover {
+    background: url(grafiki/admin_ikons/down_ikon_hover.png) no-repeat center;
+}
+
+ul.glowne_bloki fieldset.adminAccessList span.downIkon {
+    margin-top: -8px;
+    float: right;
+}
+
+ul.glowne_bloki fieldset.adminAccessList span.downIkon:hover {
+    background: #3b3a3a;
+}
+
+ul.glowne_bloki fieldset.adminAccessList div {
+    display: none;
+    padding: 10px;
+}
+
+ul.glowne_bloki fieldset.adminAccessList div.game {
+    display: block;
+}
+
+ul.glowne_bloki fieldset.adminAccessList ul.adminFields span {
+    padding: 5px;
+    float: right;
+    color: #9e9e9e;
+}
+
+ul.glowne_bloki fieldset.adminAccessList ul.adminFields span {
+    padding: 5px;
+    float: right;
+    color: #9e9e9e;
+}
+
+ul.glowne_bloki fieldset.adminAccessList ul.teamSelect select {
+    width: 250px;
+}
+
+ul.glowne_bloki fieldset.adminAccessList ul.adminAccessOption li {
+    margin-top: 2px;
+    min-height: 24px;
+    background: #383838;
+    width: 100%;
+    display: inline-table;
+}
+
+ul.glowne_bloki fieldset.adminAccessList div ul.adminAccessOption li:hover {
+    background: #3d3d3d;
+}
+
+ul.glowne_bloki fieldset.adminAccessList div ul.adminAccessOption li input[type=checkbox] {
+    float: left;
+    width: 24px;
+    height: 24px;
+    clear: both;
+}
+
+ul.glowne_bloki fieldset.adminAccessList div ul.adminAccessOption li span {
+    padding-top: 8px;
+    float: left;
+}
+
+ul.glowne_bloki fieldset.adminAccessList div ul.adminAccessOption li em {
+    color: #c6c6c6;
+    font-family: verdana;
+    font-size: 12px;
+    margin: 30px 30px;
+    line-height: 2.5;
+}
+
+ul.glowne_bloki fieldset.adminAccessList div ul.adminAccessOption li strong {
+    color: #f1f1f1;
+    font-family: verdana;
+    font-size: 11px;
+    margin: 30px 30px;
+}
+
+
+/* configuracja wyswietlania ustawien */
+ul.glowne_bloki fieldset.adminConf {
+    padding: 5px;
+}
+
+ul.glowne_bloki fieldset.adminConf li {
+    display: inline-table;
+    width: 100%;
+    padding: 10px 0 10px 0;
+    margin-top: 2px;
+    border-top: 1px solid #454444;
+    border-left: 1px solid #454444;
+    background: #3e3e3e;
+    padding-left: 3px;
+}
+
+ul.glowne_bloki fieldset.adminConf ul.adminFields li:hover {
+    background: #404040;
+}
+
+ul.glowne_bloki fieldset.adminConf li input[type="text"] {
+    width: 100px;
+}
+
+ul.glowne_bloki fieldset.adminConf li em {
+    color: #b4b4b4;
+    font-size: 9px;
+}
+
+/* informacje w bloku glownym dla statusow i informacji w lidze */
+ul.glowne_bloki .leagueStatus {
+    background: #282828;
+    min-height: 20px;
+    text-align: left;
+    margin: 5px -5px -5px -5px;
+    padding: 5px;
+    color: white;
+    font-size: 12px;
+    width: 100%;
+    border-bottom: 1px solid #3a3939;
+
+}
+
+ul.glowne_bloki .leagueStatus span {
+    color: #008c90;
+    font-family: verdana;
+    font-size: 12px;
+    float: right;
+    max-width: 300px;
+    text-align: justify;
+}
+
+ul.glowne_bloki .generatorInfo span {
+    color: #f10000;
+}
+
+ul.glowne_bloki .leagueStatus .red {
+    color: red;
+}
+
+ul.glowne_bloki .leagueStatus .green {
+    color: green;
+}
+
+
+/* konfiguracja dla wyswietlania graczy podzielonych na grupy z wylosowanymi druzynami*/
+.groupInTournament {
+    border: 0px;
+    border-top: 1px solid #3f3e42;
+    border-left: 1px solid #3f3e42;
+    background: #343434;
+    padding: 0px;
+
+    display: table;
+    padding: 5px 20px 2px 10px;
+    font-size: 12px;
+
+}
+
+.groupInTournament:hover {
+    background: #313131;
+}
+
+.groupInTournament span {
+    color: white;
+}
+
+.groupInTournament span span {
+    color: #d3baba;
+}
+
+.groupInTournament span span span {
+    color: #50a200;
+    float: right;
+    line-height: 2.2;
+}
+
+.groupInTournament span span span img {
+    margin: 2px;
+    float: right;
+}
+
+.groupInTournament textarea {
+    width: 830px;
+    height: 100px;
+    background: #494747;
+    border: 1px solid #525050;
+    font-family: verdana;
+    font-size: 12px;
+    color: #a9a9a9;
+}
+
+
+#moreOptionGenerateTournament {
+    height: 60px;
+    width: 100%;
+    background: #282828;
+}
+
+#moreOptionGenerateTournament ul {
+    clear: both;
+    height: 60px;
+    text-align: center;
+    margin: auto;
+    display: table;
+}
+
+#moreOptionGenerateTournament li {
+    float: left;
+    margin: 10px;
+    width: 150px;
+    padding: 0px;
+
+}
+
+#moreOptionGenerateTournament li button {
+    margin: 0px;
+    width: 150px;
+    height: 30px;
+    background: transparent;
+    border: 0px;
+}
+
+#moreOptionGenerateTournament li.lA a {
+    padding: 0px 100px 30px 30px;
+    background: url(grafiki/admin_img/tournamentButtonAuto.gif) no-repeat;
+}
+
+#moreOptionGenerateTournament li.lH a {
+    padding: 0px 100px 30px 30px;
+    background: url(grafiki/admin_img/tournamentButtonHand.gif) no-repeat;
+}
+
+#moreOptionGenerateTournament li.lCG a {
+    padding: 0px 100px 30px 30px;
+    background: url(grafiki/admin_img/tournamentButtonCreateGroup.gif) no-repeat;
+}
+
+#moreOptionGenerateTournament li.lCM a {
+    padding: 0px 100px 30px 30px;
+    background: url(grafiki/admin_img/tournamentButtonGenerateMatch.gif) no-repeat;
+}
+
+#moreOptionGenerateTournament li.lEF {
+    padding: 0px 130px 30px 0px;
+    background: url(grafiki/admin_img/tournamentButtonCupStage1.gif) no-repeat;
+}
+
+#moreOptionGenerateTournament li.lG1-4 a {
+    padding: 0px 100px 30px 30px;
+    background: url(grafiki/admin_img/tournamentButtonGenerate1-4.gif) no-repeat;
+}
+
+#moreOptionGenerateTournament li.lG1-2 a {
+    padding: 0px 100px 30px 30px;
+    background: url(grafiki/admin_img/tournamentButtonGenerate1-2.gif) no-repeat;
+}
+
+#moreOptionGenerateTournament li.lG1-1 a {
+    padding: 0px 100px 30px 30px;
+    background: url(grafiki/admin_img/tournamentButtonGenerate1-1.gif) no-repeat;
+}
+
+#moreOptionGenerateTournament li.lZMD a {
+    padding: 0px 100px 30px 30px;
+    background: url(grafiki/admin_img/tournamentButtonGenerateZMD.gif) no-repeat;
+}
+
+
+/* konfiguracja linkow obrazkowych*/
+a.i-edit {
+    padding: 2px 10px 18px 10px;
+    background: url(grafiki/admin_ikons/edit.png) no-repeat center top;
+
+}
+
+a.i-delete {
+    padding: 2px 10px 18px 10px;
+    background: url(grafiki/admin_ikons/delete.png) no-repeat center top;
+}
+
+a.i-note {
+    padding: 2px 10px 18px 10px;
+    background: url(grafiki/admin_ikons/note.png) no-repeat center top;
+    color: black;
+}
+
+a.i-hostM {
+    padding: 2px 10px 18px 10px;
+    background: url(grafiki/admin_ikons/red_host.png) no-repeat center top;
+}
+
+a.i-hostM-:hover {
+    background: url(grafiki/admin_ikons/red_host.png) no-repeat center top;
+}
+
+a.i-hostM- {
+    padding: 2px 10px 18px 10px;
+    background: url(grafiki/admin_ikons/black_host_down.png) no-repeat center top;
+}
+
+a.i-hostP {
+    padding: 2px 10px 18px 10px;
+    background: url(grafiki/admin_ikons/green_host.png) no-repeat center top;
+}
+
+a.i-hostP-:hover {
+    background: url(grafiki/admin_ikons/green_host.png) no-repeat center top;
+}
+
+a.i-hostP- {
+    padding: 2px 10px 18px 10px;
+    background: url(grafiki/admin_ikons/black_host_up.png) no-repeat center top;
+}
+
+a.i-ban {
+    padding: 2px 10px 18px 10px;
+    background: url(grafiki/admin_ikons/ban_acount.png) no-repeat center top;
+}
+
+a.i-active-acount {
+    padding: 2px 10px 18px 10px;
+    background: url(grafiki/admin_ikons/activ_acount.png) no-repeat center top;
+}
+
+a.i-rename-password {
+    padding: 2px 10px 18px 10px;
+    background: url(grafiki/admin_ikons/rename_password.png) no-repeat center top;
+}
+
+a.i-change-vip {
+    padding: 2px 10px 18px 10px;
+    background: url(grafiki/admin_ikons/change_vip.png) no-repeat center top;
+}
+
+a.i-access-denied {
+    padding: 0px 0px 20px 20px;
+    background: url(grafiki/admin_ikons/admin_access_no.png) no-repeat left top;
+}
+
+a.i-access-allow {
+    padding: 0px 0px 20px 20px;
+    background: url(grafiki/admin_ikons/admin_access_ok.png) no-repeat left top;
+}
+
+a.i-user-baned {
+    padding: 2px 10px 18px 10px;
+    background: url(grafiki/admin_ikons/admin_baned.png) no-repeat center top;
+}
+
+a.i-show-admin-rights {
+    padding: 0px 0px 20px 20px;
+    background: url(grafiki/admin_ikons/pined_game.png) no-repeat left top;
+}
+
+a.i-notice {
+    margin: 5px 1px 1px 4px;
+    padding: 8px 8px 8px 8px;
+    background: url(grafiki/admin_ikons/notice.png) no-repeat center;
+}
+
+a.i-show-sonda-results {
+    padding: 10px 10px 10px 10px;
+    background: url(grafiki/admin_ikons/sonda.png) no-repeat center;
+}
+
+a.i-go {
+    margin: 4px;
+    padding: 10px 10px 10px 10px;
+    background: url(grafiki/admin_ikons/go.png) no-repeat center;
+}
+
+a.i-select-team {
+    margin: 4px;
+    padding: 10px 10px 10px 10px;
+    background: url(grafiki/admin_ikons/selectTeam.png) no-repeat center;
+}
+
+a.i-play {
+    margin: 4px;
+    padding: 10px 10px 10px 10px;
+    background: url(grafiki/admin_ikons/play.png) no-repeat center;
+}
+
+a.i-stop {
+    margin: 4px;
+    padding: 10px 10px 10px 10px;
+    background: url(grafiki/admin_ikons/stop.png) no-repeat center;
+}
+
+a.i-lang-conf {
+    padding: 8px 8px 8px 8px;
+    background: url(grafiki/admin_ikons/lang_conf.png) no-repeat center;
+}
+
+a.i-start-party {
+    padding: 12px 60px 13px 0px;
+    background: url(grafiki/admin_img/startParty.png) no-repeat center;
+}
+
+
+a.i-end-party {
+    padding: 7px 60px 13px 0px;
+    background: url(grafiki/admin_img/endParty.png) no-repeat center;
+}
+
+
+a.i-add-team-to-form {
+    padding: 15px 15px 10px 15px;
+    background: url(grafiki/admin_ikons/addTeamToForm.gif) no-repeat center center;
+}
+
+
+.showPartyName {
+    margin: 4px 10px 0px 0px;
+    width: 187px;
+    height: 54px;
+    background: url(grafiki/admin_img/showPartyName.jpg);
+    float: right;
+    display: inline-table;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.showPartyName span {
+    font-size: 13px;
+    color: #9a9a9a;
+}
+
+.showPartyName span span {
+
+    font-size: 11px;
+    color: #9a9a9a;
+}
+
+
+.admin_access_prof img {
+    float: right;
+}
+
+form.small input[type=text] {
+    width: 20px;
+}
+
+form.small {
+    text-align: center;
+}
+
+.admin_info ul {
+    list-style: url(img/plus.gif);
+}
+
+.admin_info ul li {
+    font-size: 12px;
+    margin: 10px;
+    text-align: left;
+}
+
+.admin_info {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    float: left;
+}
+
+
+fieldset#info_pozostale {
+    margin: 0px 20px 0px 20px;
+    background: #222222;
+
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    clear: both;
+}
+
+img, a, form {
+    outline: 0;
+    border: 0;
+}
+
+a {
+    color: #c8c8c8;
+    text-decoration: none;
+}
+
+fieldset {
+    border-color: #3f3e42;
+    border-width: 1px;
+    border-style: solid;
+    clear: both;
+    margin: 10px 0px 10px 0px;
+}
+
+table, tr, td {
+    border-collapse: collapse;
+}
+
+input, select {
+    font-family: verdana;
+    color: #2a292e;
+    font-size: 10px;
+    margin: 2px;
+}
+
+
+.kolorek_jeden {
+    background-color: #2a292e;
+}
+
+.kolorek_dwa {
+    background-color: #3f3e42;
+}
+
+.naglowek {
+    background: url(img/nag_admin.gif);
+    height: 23px;
+    font-family: verdana;
+    color: black;
+}
+
+
+#my {
+    position: absolute;
+    width: 400px;
+    height: 20px;
+    padding-top: 10px;
+    margin-left: 40px;
+}
+
+.display_none {
+    display: none;
+}
+
+.centerT {
+    float: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+    position: relative;
+    clear: both;
+}
+
+.cHand {
+    cursor: hand;
+    cursor: pointer;
+}
+
+.jquery_select_team select,
+.jquery_select_team input,
+.jquery_select_team a,
+.jquery_select_team2 input,
+.jquery_select_team2 a,
+.jquery_select_team2 select {
+    float: left;
+}
+
+.jquery_select_team select,
+.jquery_select_team2 select {
+    height: 19px;
+    margin-left: 50px;
+}
+
+.jquery_select_team input[type="text"]:nth-child(1n),
+.jquery_select_team2 input[type="text"]:nth-child(1n) {
+    width: 200px;
+}
+
+
+.statystyki {
+    list-style: url(img/plus.gif);
+    margin-left: 20px;
+}
+
+
+.clear {
+    list-style: none;
+    height: 10px;
+}
+
+
+/* panel admina - logowanie */
+#n_logowanie {
+    width: 100%;
+    height: 102px;
+    background: #3f3e42;
+    margin: 20px 0 20px 0;
+
+}
+
+
+#login_panel {
+    height: 101px;
+    width: 270px;
+
+    color: #d3cfb8;
+    background: url(grafiki/admin_img/admin_logowanie_header.gif) no-repeat #2a292e;
+    font-size: 11px;
+    font-family: verdana;
+    margin: auto;
+    text-align: left;
+    padding-top: 1px;
+}
+
+#login_panel h1 {
+    line-height: normall;
+    font-weight: none;
+    color: white;
+    font-family: verdana;
+    font-size: 10px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+#login_panel div.itt span {
+    height: 20px;
+    padding: 4px;
+}
+
+.login_submit {
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 20px;
+}
+
+
+.button_text-v1 {
+    border-width: 0px;
+    border-style: solid;
+    background: url(grafiki/admin_img/admin_blue_button.jpg) no-repeat;
+    color: #2a292e;
+    font-size: 10px;
+    font-family: verdana;
+    width: 150px;
+    height: 18px;
+    margin-top: 10px;
+    padding-right: 10px;
+}
+
+.center td {
+    height: auto;
+    text-align: center;
+}
+
+
+.textarea_b {
+
+    font-family: verdana;
+    font-size: 10px;
+    height: 200px;
+}
+
+.textarea_a {
+    width: 565px;
+    font-family: verdana;
+    font-size: 10px;
+    margin-top: 20px;
+}
+
+.textarea_a_full {
+    width: 566px;
+
+    font-family: verdana;
+    font-size: 10px;
+}
+
+.textarea_a_small {
+    width: 465px;
+    font-family: verdana;
+    font-size: 10px;
+    margin-top: 20px;
+}
+
+
+.glowne_bloki_zawartosc input[type=image] {
+    float: right;
+    margin-top: 10px;
+}
+
+.glowne_bloki_zawartosc input[type=text] {
+    width: 350px;
+}
+
+
+/* stronnicowanie */
+.lista_podstawowa:hover, .lista_aktualna:hover {
+    background: URL(grafiki/admin_img/admin_stronnicowanie_a.gif);
+}
+
+.lista_aktualna {
+    width: 24px;
+    height: 19px;
+    float: left;
+    font-weight: bold;
+    background: URL(grafiki/admin_img/admin_stronnicowanie_b.gif);
+    text-align: center;
+    padding-top: 4px;
+    margin-left: 3px;
+    color: white;
+}
+
+.lista_podstawowa {
+    width: 24px;
+    height: 19px;
+    clear: bolth;
+    float: left;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 4px;
+    margin-left: 5px;
+}
+
+
+.ostrzezenie {
+    background-image: URL(grafiki/admin_ikons/note.png);
+    width: 20px;
+    height: 16px;
+    text-align: center;
+    padding-top: 4px;
+    font-weight: bold;
+    color: black;
+}
+
+.pasek_lista {
+
+    height: 23px;
+    background: #343434;
+    border-left: 3px solid #4a9700;
+    margin: 10px 0px 10px 0px;
+}
+
+
+/* wyswietlanie ikon do newsow*/
+
+div.news_galery {
+    float: left;
+}
+
+.news_galery {
+    width: 369px;
+    background: #454449;
+    margin: 10px;
+    height: 150px;
+    float: left;
+    position: relative;
+    margin-bottom: 40px;
+    margin-left: 90px;
+
+}
+
+.news_galery_header {
+    background: #51a400;
+    height: 27px;
+}
+
+.news_galery_header span {
+    margin-left: 10px;
+    line-height: 20px;
+}
+
+.news_galery_description {
+    float: left;
+    background: #323135;
+    width: 214px;
+    height: 150px;
+}
+
+.news_galery_image {
+    float: left;
+    background: #454449;
+    width: 155px;
+    text-align: center;
+    height: 150px;
+
+}
+
+.news_galery_image img {
+    margin-top: 10px;
+    width: 106px;
+    max-height: 130px;
+}
+
+.news_galery_header ul {
+    float: right;
+    margin: 0px;
+    padding: 0px;
+    height: 27px;
+}
+
+.news_galery_header ul li {
+    float: left;
+}
+
+.news_galery_description ul li {
+    margin: 10px;
+}
+
+.news_galery_description ul li.news_galery_no {
+    color: red;
+    float: right;
+    margin-top: 70px;
+    font-family: verdana;
+    font-size: 19px;
+    color: #454449;
+}
+
+
+/* komunikaty o bledach */
+
+.error {
+    padding-left: 10px;
+    background: #434344;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4e4d50;
+    margin: 10px;
+    display: block;
+}
+
+.error span {
+    font-style: tahoma;
+    font-size: 10px;
+    color: #cf5050;
+    margin-left: 5px;
+    vertical-align: top;
+    line-height: 25px;
+
+}
+
+.confirm span {
+    font-style: tahoma;
+    font-size: 10px;
+    color: #46a666;
+    margin-left: 5px;
+    vertical-align: top;
+    line-height: 25px;
+
+}
+
+
+.confirm {
+    padding-left: 10px;
+    background: #434344;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4e4d50;
+    display: block;
+    margin: 10px;
+}
+
+
+/* konfiguracja chmurek */
+#tooltip input.IH {
+    color: green;
+}
+
+#tooltip {
+    position: absolute;
+    z-index: 3000;
+    border: 1px solid #4e4d50;
+    background: #434344;
+    padding: 5px;
+    font-family: verdana;
+    font-size: 11px;
+    opacity: 0.90;
+    color: white;
+    max-width: 400px;
+    width: 400px;
+
+}
+
+#tooltip h3 {
+    margin: 5px;
+
+    color: white;
+    line-height: normal;
+    font-family: verdana;
+    font-size: 14px;
+}
+	
+
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

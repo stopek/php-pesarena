@@ -1,0 +1,639 @@
+[21-Oct-2011 07:36:41] PHP Warning:  move_uploaded_file(/home/dt146844/public_html/adam/ourwork/1/images/DSC05756.JPG) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[21-Oct-2011 07:36:41] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpwPjDmM' to '/home/dt146844/public_html/adam/ourwork/1/images/DSC05756.JPG' in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[21-Oct-2011 07:36:41] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05756.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[21-Oct-2011 07:36:41] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[21-Oct-2011 07:36:41] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[21-Oct-2011 07:36:41] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[21-Oct-2011 07:36:41] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[21-Oct-2011 07:36:41] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:36:41] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:36:41] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[21-Oct-2011 07:36:41] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[21-Oct-2011 07:36:41] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[21-Oct-2011 07:36:41] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[21-Oct-2011 07:36:41] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05756.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[21-Oct-2011 07:36:41] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[21-Oct-2011 07:36:41] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[21-Oct-2011 07:36:41] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[21-Oct-2011 07:36:41] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[21-Oct-2011 07:36:41] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:36:41] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:36:41] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[21-Oct-2011 07:36:41] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[21-Oct-2011 07:36:41] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[21-Oct-2011 07:36:41] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[21-Oct-2011 07:37:06] PHP Warning:  move_uploaded_file(/home/dt146844/public_html/adam/ourwork/1/images/DSC05760.JPG) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[21-Oct-2011 07:37:06] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpt3N4qS' to '/home/dt146844/public_html/adam/ourwork/1/images/DSC05760.JPG' in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[21-Oct-2011 07:37:06] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05760.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[21-Oct-2011 07:37:06] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[21-Oct-2011 07:37:06] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[21-Oct-2011 07:37:06] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[21-Oct-2011 07:37:06] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[21-Oct-2011 07:37:06] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:37:06] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:37:06] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[21-Oct-2011 07:37:06] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[21-Oct-2011 07:37:06] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[21-Oct-2011 07:37:06] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[21-Oct-2011 07:37:06] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05760.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[21-Oct-2011 07:37:06] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[21-Oct-2011 07:37:06] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[21-Oct-2011 07:37:06] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[21-Oct-2011 07:37:06] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[21-Oct-2011 07:37:06] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:37:06] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:37:06] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[21-Oct-2011 07:37:06] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[21-Oct-2011 07:37:06] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[21-Oct-2011 07:37:06] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[21-Oct-2011 07:37:30] PHP Warning:  move_uploaded_file(/home/dt146844/public_html/adam/ourwork/1/images/DSC05753.JPG) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[21-Oct-2011 07:37:30] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpypSddZ' to '/home/dt146844/public_html/adam/ourwork/1/images/DSC05753.JPG' in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[21-Oct-2011 07:37:30] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05753.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[21-Oct-2011 07:37:30] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[21-Oct-2011 07:37:30] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[21-Oct-2011 07:37:30] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[21-Oct-2011 07:37:30] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[21-Oct-2011 07:37:30] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:37:30] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:37:30] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[21-Oct-2011 07:37:30] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[21-Oct-2011 07:37:30] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[21-Oct-2011 07:37:30] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[21-Oct-2011 07:37:30] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05753.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[21-Oct-2011 07:37:30] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[21-Oct-2011 07:37:30] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[21-Oct-2011 07:37:30] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[21-Oct-2011 07:37:30] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[21-Oct-2011 07:37:30] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:37:30] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:37:30] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[21-Oct-2011 07:37:30] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[21-Oct-2011 07:37:30] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[21-Oct-2011 07:37:30] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[21-Oct-2011 07:37:52] PHP Warning:  move_uploaded_file(/home/dt146844/public_html/adam/ourwork/1/images/DSC05761.JPG) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[21-Oct-2011 07:37:52] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phptm1iV1' to '/home/dt146844/public_html/adam/ourwork/1/images/DSC05761.JPG' in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[21-Oct-2011 07:37:52] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05761.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[21-Oct-2011 07:37:52] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[21-Oct-2011 07:37:52] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[21-Oct-2011 07:37:52] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[21-Oct-2011 07:37:52] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[21-Oct-2011 07:37:52] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:37:52] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:37:52] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[21-Oct-2011 07:37:52] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[21-Oct-2011 07:37:52] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[21-Oct-2011 07:37:52] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[21-Oct-2011 07:37:52] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05761.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[21-Oct-2011 07:37:52] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[21-Oct-2011 07:37:52] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[21-Oct-2011 07:37:52] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[21-Oct-2011 07:37:52] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[21-Oct-2011 07:37:52] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:37:52] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:37:52] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[21-Oct-2011 07:37:52] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[21-Oct-2011 07:37:52] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[21-Oct-2011 07:37:52] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[21-Oct-2011 07:38:13] PHP Warning:  move_uploaded_file(/home/dt146844/public_html/adam/ourwork/1/images/DSC05757.JPG) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[21-Oct-2011 07:38:13] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpyJs6qX' to '/home/dt146844/public_html/adam/ourwork/1/images/DSC05757.JPG' in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[21-Oct-2011 07:38:13] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05757.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[21-Oct-2011 07:38:13] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[21-Oct-2011 07:38:13] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[21-Oct-2011 07:38:13] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[21-Oct-2011 07:38:13] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[21-Oct-2011 07:38:13] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:38:13] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:38:13] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[21-Oct-2011 07:38:13] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[21-Oct-2011 07:38:13] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[21-Oct-2011 07:38:13] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[21-Oct-2011 07:38:13] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05757.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[21-Oct-2011 07:38:13] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[21-Oct-2011 07:38:13] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[21-Oct-2011 07:38:13] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[21-Oct-2011 07:38:13] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[21-Oct-2011 07:38:13] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:38:13] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:38:13] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[21-Oct-2011 07:38:13] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[21-Oct-2011 07:38:13] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[21-Oct-2011 07:38:13] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[21-Oct-2011 07:38:33] PHP Warning:  move_uploaded_file(/home/dt146844/public_html/adam/ourwork/1/images/DSC05758.JPG) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[21-Oct-2011 07:38:33] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpn3WoTH' to '/home/dt146844/public_html/adam/ourwork/1/images/DSC05758.JPG' in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[21-Oct-2011 07:38:33] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05758.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[21-Oct-2011 07:38:33] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[21-Oct-2011 07:38:33] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[21-Oct-2011 07:38:33] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[21-Oct-2011 07:38:33] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[21-Oct-2011 07:38:33] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:38:33] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:38:33] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[21-Oct-2011 07:38:33] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[21-Oct-2011 07:38:33] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[21-Oct-2011 07:38:33] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[21-Oct-2011 07:38:33] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05758.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[21-Oct-2011 07:38:33] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[21-Oct-2011 07:38:33] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[21-Oct-2011 07:38:33] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[21-Oct-2011 07:38:33] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[21-Oct-2011 07:38:33] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:38:33] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[21-Oct-2011 07:38:33] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[21-Oct-2011 07:38:33] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[21-Oct-2011 07:38:33] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[21-Oct-2011 07:38:33] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[22-Oct-2011 12:59:45] PHP Warning:  move_uploaded_file(/home/dt146844/public_html/adam/ourwork/1/images/DSC05752.JPG) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[22-Oct-2011 12:59:45] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/php750247' to '/home/dt146844/public_html/adam/ourwork/1/images/DSC05752.JPG' in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[22-Oct-2011 12:59:45] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05752.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[22-Oct-2011 12:59:45] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[22-Oct-2011 12:59:45] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[22-Oct-2011 12:59:45] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[22-Oct-2011 12:59:45] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[22-Oct-2011 12:59:45] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[22-Oct-2011 12:59:45] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[22-Oct-2011 12:59:45] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[22-Oct-2011 12:59:45] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[22-Oct-2011 12:59:45] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[22-Oct-2011 12:59:45] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[22-Oct-2011 12:59:45] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/DSC05752.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[22-Oct-2011 12:59:45] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[22-Oct-2011 12:59:45] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[22-Oct-2011 12:59:45] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[22-Oct-2011 12:59:45] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[22-Oct-2011 12:59:45] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[22-Oct-2011 12:59:45] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[22-Oct-2011 12:59:45] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[22-Oct-2011 12:59:45] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[22-Oct-2011 12:59:45] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[22-Oct-2011 12:59:45] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[22-Oct-2011 13:11:24] PHP Warning:  move_uploaded_file(/home/dt146844/public_html/adam/ourwork/1/images/SA404848.JPG) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[22-Oct-2011 13:11:24] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpPZEg6k' to '/home/dt146844/public_html/adam/ourwork/1/images/SA404848.JPG' in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[22-Oct-2011 13:11:24] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/SA404848.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[22-Oct-2011 13:11:24] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[22-Oct-2011 13:11:24] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[22-Oct-2011 13:11:24] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[22-Oct-2011 13:11:24] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[22-Oct-2011 13:11:24] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[22-Oct-2011 13:11:24] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[22-Oct-2011 13:11:24] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[22-Oct-2011 13:11:24] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[22-Oct-2011 13:11:24] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[22-Oct-2011 13:11:24] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[22-Oct-2011 13:11:24] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/1/images/SA404848.JPG) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[22-Oct-2011 13:11:24] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[22-Oct-2011 13:11:24] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[22-Oct-2011 13:11:24] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[22-Oct-2011 13:11:24] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[22-Oct-2011 13:11:24] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[22-Oct-2011 13:11:24] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[22-Oct-2011 13:11:24] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[22-Oct-2011 13:11:24] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[22-Oct-2011 13:11:24] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[22-Oct-2011 13:11:24] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[22-Oct-2011 16:31:14] PHP Warning:  move_uploaded_file(/home/dt146844/public_html/adam/ourwork/2/images/top.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[22-Oct-2011 16:31:14] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpf2ooK0' to '/home/dt146844/public_html/adam/ourwork/2/images/top.jpg' in /home/dt146844/public_html/uploadify/uploadify.php on line 84
+[22-Oct-2011 16:31:14] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/2/images/top.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[22-Oct-2011 16:31:14] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[22-Oct-2011 16:31:14] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[22-Oct-2011 16:31:14] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[22-Oct-2011 16:31:14] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[22-Oct-2011 16:31:14] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[22-Oct-2011 16:31:14] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[22-Oct-2011 16:31:14] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[22-Oct-2011 16:31:14] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[22-Oct-2011 16:31:14] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[22-Oct-2011 16:31:14] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[22-Oct-2011 16:31:14] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/adam/ourwork/2/images/top.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 29
+[22-Oct-2011 16:31:14] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 30
+[22-Oct-2011 16:31:14] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 34
+[22-Oct-2011 16:31:14] PHP Warning:  Division by zero in /home/dt146844/public_html/uploadify/uploadify.php on line 37
+[22-Oct-2011 16:31:14] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/uploadify/uploadify.php on line 38
+[22-Oct-2011 16:31:14] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[22-Oct-2011 16:31:14] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 39
+[22-Oct-2011 16:31:14] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 58
+[22-Oct-2011 16:31:14] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 59
+[22-Oct-2011 16:31:14] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[22-Oct-2011 16:31:14] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 63
+[23-Oct-2011 20:32:20] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[23-Oct-2011 20:32:20] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[23-Oct-2011 20:32:58] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[23-Oct-2011 20:32:58] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[23-Oct-2011 20:33:16] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[23-Oct-2011 20:33:16] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[23-Oct-2011 21:55:39] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[23-Oct-2011 21:55:39] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/uploadify/uploadify.php on line 62
+[23-Oct-2011 21:56:29] PHP Warning:  file(../ourwork//des.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 78
+[23-Oct-2011 22:02:33] PHP Warning:  file(DGLourwork//des.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 78
+[23-Oct-2011 22:04:13] PHP Warning:  file(DGLourwork/3/des.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 78
+[23-Oct-2011 22:05:11] PHP Warning:  file(DGLourwork/4/des.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 78
+[23-Oct-2011 22:05:37] PHP Warning:  file(DGLourwork/4/des.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 78
+[23-Oct-2011 22:06:03] PHP Warning:  file(DGLourwork/4/des.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 78
+[23-Oct-2011 22:06:41] PHP Warning:  file(/ourwork/4/des.txt) [<a href='function.file'>function.file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/uploadify/uploadify.php on line 78
+[17-Feb-2012 11:49:40] PHP Warning:  move_uploaded_file(/home/dt146844/public_html/pesarena/klanyPes/grafiki/avatar-clans/2/avatar.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 96
+[17-Feb-2012 11:49:40] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpLrSMD9' to '/home/dt146844/public_html/pesarena/klanyPes/grafiki/avatar-clans/2/avatar.jpg' in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 96
+[17-Feb-2012 11:49:40] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/pesarena/klanyPes/grafiki/avatar-clans/2/avatar.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[17-Feb-2012 11:49:40] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[17-Feb-2012 11:49:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[17-Feb-2012 11:49:40] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[17-Feb-2012 11:49:40] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[17-Feb-2012 11:49:40] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[17-Feb-2012 11:49:40] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[17-Feb-2012 11:49:40] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[17-Feb-2012 11:49:40] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[17-Feb-2012 11:49:40] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[17-Feb-2012 11:49:40] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[17-Feb-2012 11:49:40] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/pesarena/klanyPes/grafiki/avatar-clans/2/avatar.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[17-Feb-2012 11:49:40] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[17-Feb-2012 11:49:40] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[17-Feb-2012 11:49:40] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[17-Feb-2012 11:49:40] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[17-Feb-2012 11:49:40] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[17-Feb-2012 11:49:40] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[17-Feb-2012 11:49:40] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[17-Feb-2012 11:49:40] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[17-Feb-2012 11:49:40] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[17-Feb-2012 11:49:40] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[17-Feb-2012 12:05:21] PHP Warning:  move_uploaded_file(/home/dt146844/public_html/pesarena/klanyPes/grafiki/avatar-clans/2/avatar.jpg) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 96
+[17-Feb-2012 12:05:21] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpGa2yCB' to '/home/dt146844/public_html/pesarena/klanyPes/grafiki/avatar-clans/2/avatar.jpg' in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 96
+[17-Feb-2012 12:05:21] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/pesarena/klanyPes/grafiki/avatar-clans/2/avatar.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[17-Feb-2012 12:05:21] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[17-Feb-2012 12:05:21] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[17-Feb-2012 12:05:21] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[17-Feb-2012 12:05:21] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[17-Feb-2012 12:05:21] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[17-Feb-2012 12:05:21] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[17-Feb-2012 12:05:21] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[17-Feb-2012 12:05:21] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[17-Feb-2012 12:05:21] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[17-Feb-2012 12:05:21] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[17-Feb-2012 12:05:21] PHP Warning:  imagecreatefromjpeg(/home/dt146844/public_html/pesarena/klanyPes/grafiki/avatar-clans/2/avatar.jpg) [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: failed to open stream: No such file or directory in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[17-Feb-2012 12:05:21] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[17-Feb-2012 12:05:21] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[17-Feb-2012 12:05:21] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[17-Feb-2012 12:05:21] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[17-Feb-2012 12:05:21] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[17-Feb-2012 12:05:21] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[17-Feb-2012 12:05:21] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[17-Feb-2012 12:05:21] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[17-Feb-2012 12:05:21] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[17-Feb-2012 12:05:21] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[25-Nov-2012 20:26:01] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[25-Nov-2012 20:26:01] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/grafiki/avatar-clans/27/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[25-Nov-2012 20:26:01] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[25-Nov-2012 20:26:01] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[25-Nov-2012 20:26:01] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[25-Nov-2012 20:26:01] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[25-Nov-2012 20:26:01] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[25-Nov-2012 20:26:01] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[25-Nov-2012 20:26:01] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[25-Nov-2012 20:26:01] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[25-Nov-2012 20:26:01] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[25-Nov-2012 20:26:01] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[25-Nov-2012 20:26:01] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[25-Nov-2012 20:26:01] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/grafiki/avatar-clans/27/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[25-Nov-2012 20:26:01] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[25-Nov-2012 20:26:01] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[25-Nov-2012 20:26:01] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[25-Nov-2012 20:26:01] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[25-Nov-2012 20:26:01] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[25-Nov-2012 20:26:01] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[25-Nov-2012 20:26:01] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[25-Nov-2012 20:26:01] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[25-Nov-2012 20:26:01] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[25-Nov-2012 20:26:01] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[25-Nov-2012 20:30:00] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[25-Nov-2012 20:30:00] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/grafiki/avatar-clans/27/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[25-Nov-2012 20:30:00] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[25-Nov-2012 20:30:00] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[25-Nov-2012 20:30:00] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[25-Nov-2012 20:30:00] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[25-Nov-2012 20:30:00] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[25-Nov-2012 20:30:00] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[25-Nov-2012 20:30:00] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[25-Nov-2012 20:30:00] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[25-Nov-2012 20:30:00] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[25-Nov-2012 20:30:00] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[25-Nov-2012 20:30:00] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[25-Nov-2012 20:30:00] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/grafiki/avatar-clans/27/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[25-Nov-2012 20:30:00] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[25-Nov-2012 20:30:00] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[25-Nov-2012 20:30:00] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[25-Nov-2012 20:30:00] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[25-Nov-2012 20:30:00] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[25-Nov-2012 20:30:00] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[25-Nov-2012 20:30:00] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[25-Nov-2012 20:30:00] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[25-Nov-2012 20:30:00] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[25-Nov-2012 20:30:00] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Dec-2012 12:02:21] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 12:02:21] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/js/uploadify/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 12:02:21] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Dec-2012 12:02:21] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Dec-2012 12:02:21] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Dec-2012 12:02:21] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Dec-2012 12:02:21] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 12:02:21] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 12:02:21] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Dec-2012 12:02:21] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Dec-2012 12:02:21] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Dec-2012 12:02:21] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Dec-2012 12:02:21] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 12:02:21] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/js/uploadify/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 12:02:21] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Dec-2012 12:02:21] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Dec-2012 12:02:21] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Dec-2012 12:02:21] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Dec-2012 12:02:21] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 12:02:21] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 12:02:21] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Dec-2012 12:02:21] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Dec-2012 12:02:21] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Dec-2012 12:02:21] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Dec-2012 12:51:24] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 12:51:24] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/js/uploadify/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 12:51:24] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Dec-2012 12:51:24] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Dec-2012 12:51:24] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Dec-2012 12:51:24] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Dec-2012 12:51:24] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 12:51:24] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 12:51:24] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Dec-2012 12:51:24] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Dec-2012 12:51:24] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Dec-2012 12:51:24] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Dec-2012 12:51:24] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 12:51:24] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/js/uploadify/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 12:51:24] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Dec-2012 12:51:24] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Dec-2012 12:51:24] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Dec-2012 12:51:24] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Dec-2012 12:51:24] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 12:51:24] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 12:51:24] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Dec-2012 12:51:24] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Dec-2012 12:51:24] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Dec-2012 12:51:24] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Dec-2012 13:03:29] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 13:03:29] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/js/uploadify/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 13:03:29] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Dec-2012 13:03:29] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Dec-2012 13:03:29] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Dec-2012 13:03:29] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Dec-2012 13:03:29] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 13:03:29] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 13:03:29] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Dec-2012 13:03:29] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Dec-2012 13:03:29] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Dec-2012 13:03:29] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Dec-2012 13:03:29] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 13:03:29] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/js/uploadify/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 13:03:29] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Dec-2012 13:03:29] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Dec-2012 13:03:29] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Dec-2012 13:03:29] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Dec-2012 13:03:29] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 13:03:29] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 13:03:29] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Dec-2012 13:03:29] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Dec-2012 13:03:29] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Dec-2012 13:03:29] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Dec-2012 13:27:28] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 13:27:29] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/js/uploadify/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 13:27:29] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Dec-2012 13:27:29] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Dec-2012 13:27:29] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Dec-2012 13:27:29] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Dec-2012 13:27:29] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 13:27:29] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 13:27:29] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Dec-2012 13:27:29] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Dec-2012 13:27:29] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Dec-2012 13:27:29] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Dec-2012 13:27:29] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 13:27:29] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/js/uploadify/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 13:27:29] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Dec-2012 13:27:29] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Dec-2012 13:27:29] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Dec-2012 13:27:29] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Dec-2012 13:27:29] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 13:27:29] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 13:27:29] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Dec-2012 13:27:29] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Dec-2012 13:27:29] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Dec-2012 13:27:29] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Dec-2012 15:26:52] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 15:26:52] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/js/uploadify/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 15:26:52] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Dec-2012 15:26:52] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Dec-2012 15:26:52] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Dec-2012 15:26:52] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Dec-2012 15:26:52] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 15:26:52] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 15:26:52] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Dec-2012 15:26:52] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Dec-2012 15:26:52] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Dec-2012 15:26:52] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Dec-2012 15:26:52] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 15:26:52] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/js/uploadify/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 15:26:52] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Dec-2012 15:26:52] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Dec-2012 15:26:52] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Dec-2012 15:26:52] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Dec-2012 15:26:52] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 15:26:52] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 15:26:52] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Dec-2012 15:26:52] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Dec-2012 15:26:52] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Dec-2012 15:26:52] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Dec-2012 15:37:38] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 15:37:38] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/js/uploadify/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 15:37:38] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Dec-2012 15:37:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Dec-2012 15:37:38] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Dec-2012 15:37:38] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Dec-2012 15:37:38] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 15:37:38] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 15:37:38] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Dec-2012 15:37:38] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Dec-2012 15:37:38] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Dec-2012 15:37:38] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Dec-2012 15:37:38] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 15:37:38] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/js/uploadify/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Dec-2012 15:37:38] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Dec-2012 15:37:38] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Dec-2012 15:37:38] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Dec-2012 15:37:38] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Dec-2012 15:37:38] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 15:37:38] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Dec-2012 15:37:38] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Dec-2012 15:37:38] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Dec-2012 15:37:38] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Dec-2012 15:37:38] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[12-Nov-2013 13:08:36] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 13:08:36] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 13:08:36] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[12-Nov-2013 13:08:36] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[12-Nov-2013 13:08:36] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[12-Nov-2013 13:08:36] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[12-Nov-2013 13:08:36] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 13:08:36] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 13:08:36] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[12-Nov-2013 13:08:36] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[12-Nov-2013 13:08:36] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[12-Nov-2013 13:08:36] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[12-Nov-2013 13:08:36] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 13:08:36] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 13:08:36] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[12-Nov-2013 13:08:36] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[12-Nov-2013 13:08:36] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[12-Nov-2013 13:08:36] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[12-Nov-2013 13:08:36] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 13:08:36] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 13:08:36] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[12-Nov-2013 13:08:36] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[12-Nov-2013 13:08:36] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[12-Nov-2013 13:08:36] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[12-Nov-2013 13:08:37] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 13:08:37] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 13:08:37] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[12-Nov-2013 13:08:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[12-Nov-2013 13:08:37] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[12-Nov-2013 13:08:37] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[12-Nov-2013 13:08:37] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 13:08:37] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 13:08:37] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[12-Nov-2013 13:08:37] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[12-Nov-2013 13:08:37] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[12-Nov-2013 13:08:37] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[12-Nov-2013 13:08:37] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 13:08:37] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 13:08:37] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[12-Nov-2013 13:08:37] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[12-Nov-2013 13:08:37] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[12-Nov-2013 13:08:37] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[12-Nov-2013 13:08:37] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 13:08:37] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 13:08:37] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[12-Nov-2013 13:08:37] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[12-Nov-2013 13:08:37] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[12-Nov-2013 13:08:37] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[12-Nov-2013 14:37:17] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 14:37:17] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 14:37:17] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[12-Nov-2013 14:37:17] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[12-Nov-2013 14:37:17] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[12-Nov-2013 14:37:17] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[12-Nov-2013 14:37:17] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 14:37:17] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 14:37:17] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[12-Nov-2013 14:37:17] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[12-Nov-2013 14:37:17] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[12-Nov-2013 14:37:17] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[12-Nov-2013 14:37:17] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 14:37:17] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 14:37:17] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[12-Nov-2013 14:37:17] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[12-Nov-2013 14:37:17] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[12-Nov-2013 14:37:17] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[12-Nov-2013 14:37:17] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 14:37:17] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 14:37:17] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[12-Nov-2013 14:37:17] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[12-Nov-2013 14:37:17] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[12-Nov-2013 14:37:17] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[12-Nov-2013 14:37:19] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 14:37:19] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 14:37:19] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[12-Nov-2013 14:37:19] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[12-Nov-2013 14:37:19] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[12-Nov-2013 14:37:19] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[12-Nov-2013 14:37:19] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 14:37:19] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 14:37:19] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[12-Nov-2013 14:37:19] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[12-Nov-2013 14:37:19] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[12-Nov-2013 14:37:19] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[12-Nov-2013 14:37:19] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 14:37:19] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[12-Nov-2013 14:37:19] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[12-Nov-2013 14:37:19] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[12-Nov-2013 14:37:19] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[12-Nov-2013 14:37:19] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[12-Nov-2013 14:37:19] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 14:37:19] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[12-Nov-2013 14:37:19] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[12-Nov-2013 14:37:19] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[12-Nov-2013 14:37:19] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[12-Nov-2013 14:37:19] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Nov-2013 12:53:46] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Nov-2013 12:53:46] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Nov-2013 12:53:46] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Nov-2013 12:53:46] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Nov-2013 12:53:46] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Nov-2013 12:53:46] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Nov-2013 12:53:46] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Nov-2013 12:53:46] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Nov-2013 12:53:46] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Nov-2013 12:53:46] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Nov-2013 12:53:46] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Nov-2013 12:53:46] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Nov-2013 12:53:46] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Nov-2013 12:53:46] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Nov-2013 12:53:46] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Nov-2013 12:53:46] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Nov-2013 12:53:46] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Nov-2013 12:53:46] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Nov-2013 12:53:46] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Nov-2013 12:53:46] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Nov-2013 12:53:46] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Nov-2013 12:53:46] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Nov-2013 12:53:46] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Nov-2013 12:53:46] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Nov-2013 12:53:47] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Nov-2013 12:53:47] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Nov-2013 12:53:47] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Nov-2013 12:53:47] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Nov-2013 12:53:47] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Nov-2013 12:53:47] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Nov-2013 12:53:47] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Nov-2013 12:53:47] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Nov-2013 12:53:47] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Nov-2013 12:53:47] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Nov-2013 12:53:47] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Nov-2013 12:53:47] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[19-Nov-2013 12:53:47] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Nov-2013 12:53:47] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[19-Nov-2013 12:53:47] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[19-Nov-2013 12:53:47] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[19-Nov-2013 12:53:47] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[19-Nov-2013 12:53:47] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[19-Nov-2013 12:53:47] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Nov-2013 12:53:47] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[19-Nov-2013 12:53:47] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[19-Nov-2013 12:53:47] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[19-Nov-2013 12:53:47] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[19-Nov-2013 12:53:47] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[09-Dec-2013 02:37:50] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[09-Dec-2013 02:37:50] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[09-Dec-2013 02:37:50] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[09-Dec-2013 02:37:50] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[09-Dec-2013 02:37:50] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[09-Dec-2013 02:37:50] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[09-Dec-2013 02:37:50] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[09-Dec-2013 02:37:50] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[09-Dec-2013 02:37:50] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[09-Dec-2013 02:37:50] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[09-Dec-2013 02:37:50] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[09-Dec-2013 02:37:50] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65
+[09-Dec-2013 02:37:50] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[09-Dec-2013 02:37:50] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/dt146844/public_html/pesarena/avatar.jpg' is not a valid JPEG file in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 31
+[09-Dec-2013 02:37:50] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 32
+[09-Dec-2013 02:37:50] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 36
+[09-Dec-2013 02:37:50] PHP Warning:  Division by zero in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 39
+[09-Dec-2013 02:37:50] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 40
+[09-Dec-2013 02:37:50] PHP Warning:  imagecolorallocate(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[09-Dec-2013 02:37:50] PHP Warning:  imagerectangle(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 41
+[09-Dec-2013 02:37:50] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 60
+[09-Dec-2013 02:37:50] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 61
+[09-Dec-2013 02:37:50] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 64
+[09-Dec-2013 02:37:50] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/dt146844/public_html/pesarena/js/uploadify/uploadify.php on line 65

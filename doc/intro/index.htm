@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link href="doc/intro/style.css" media="all" rel="stylesheet" type="text/css"/>
+    <script src="doc/intro/js/akModal/jquery-1.2.6.pack.js" type="text/javascript"></script>
+    <script src="doc/intro/js/akModal/dimmer.js" type="text/javascript"></script>
+    <script src="doc/intro/js/akModal/dimensions.pack.js" type="text/javascript"></script>
+    <script src="doc/intro/js/akModal/akModal.js" type="text/javascript"></script>
+    <script src="doc/intro/js/tooltip/jquery.js" type="text/javascript"></script>
+
+    <script src="doc/intro/js/tooltip/jquery.bgiframe.js" type="text/javascript"></script>
+    <script src="doc/intro/js/tooltip/jquery.dimensions.js" type="text/javascript"></script>
+    <script src="doc/intro/js/tooltip/jquery.tooltip.js" type="text/javascript"></script>
+    <script src="doc/intro/js/tooltip/chili-1.7.pack.js" type="text/javascript"></script>
+
+    <meta content="text/html; charset=iso-8859-2" http-equiv="content-type"/>
+    <meta content="Polski Serwis Pro Evolution Soccer 2009, 2008, 6, 5, 4, ISS" name="Description"/>
+    <meta content="puchar, turniej, mistrzostwa ¶wiata, master league, konami, bramka, gol, pesarena, stopekA, liga, dru¿yna, klub, pes4, pro evolution soccer, liga mistrzów, pesluncher, ranking, zawodnik, pi³karz, bramkarz, sêdzia, spalony, faul, faza eliminacyjna, wyzwania, sezon, tabela, wyniki, spotkanie, gracz miesi±ca, tygodnia,dnia, poker rank, imprezy, punkty, liga pes, pes league, puchar dnia, turniej, pro evolution soccer"
+          name="Keywords"/>
+    <meta content="Pawe³ Stopczyñski" name="Author"/>
+    <meta content="index, follow" name="Robots"/>
+    <meta content="index, follow" name="Googlebot"/>
+    <title>Pro Evolution Soccer : www.pesarena.pl : Intro</title>
+    <script type="text/javascript">
+        var $j = jQuery.noConflict();
+        $j(function () {
+
+            $j('#menu a, #language_bar a').tooltip({
+                track: true,
+                delay: 0,
+                showURL: false,
+                showBody: " - ",
+                fade: 250
+            });
+        });
+
+        function ramka(id) {
+            var url = "doc/intro/";
+            if (id == 4) {
+                return $.showAkModal('<a href="' + url + 'img/launcher.png" target="_blank"><img style="float:left;margin:20px;" src="' + url + 'img/launcher.png" width="250"  alt="peslauncher screen"/></a><a href="' + url + 'img/example_room.jpg" target="_blank"><img style="float:left;margin:20px;" src="' + url + 'img/example_room.jpg" width="250"  alt="peslauncher screen"/></a><fieldset  class="pt_list"> Powy¿ej zaprezentowane s± 2 screeny z peslaunchera. Pierwszy przedstawia przykladow± rozmowê graczy, drugi natomiast  prezentuje wygl±d (powitanie) na oficjalnym pokoju, oraz nicki osób odpowiedzialnych za pomoc nowym graczom. Pamiêtaj, ka¿da osoba, która ¶ci±gnie odpowiedni program, mo¿e byæ w³a¶cicielem w³asnego serwera, jednak tylko na  oficjalnym pokoju rozgrywane s± spotkania pesarena.pl. Pamiêtaj aby z po¶ród pokoi dostêpnych na li¶cie wybieraæ zawsze  pokój o nazwie: <b>www.PesArena.pl</b>.  Tylko na tym pokoju: <br/> &nbsp;&nbsp;*znajdziesz Niezbednik,  w którym zawarta jest ca³a wiedza na temat PESa. <br/> &nbsp;&nbsp;*uzyskasz niezbedn± pomoc <br/>&nbsp;&nbsp;*mo¿esz odwo³ywaæ siê do regulaminu<br/> &nbsp;&nbsp;*pisaæ o aktywacje konta,<br/> oraz wielu innych sprawach <br/>Gdyby jednak okaza³o siê, ¿e na li¶cie nie ma oficjalnego pokoju, wówczas dopiero wtedy wchod¼ na inne pokoje.</fieldset><br/><a href="http://www.peslauncher.com/PesLauncherSetup-v3.75.zip"><img src="' + url + 'img/peslauncher_download.png" alt="peslauncher download"/></a>', 'PesLauncher', 230, 170);
+                return false;
+            }
+            if (id == 2) {
+                return $.showAkModal('<img src="' + url + 'img/pes_screen.png" alt="pes screen"/><br/><a href="http://tnttorrent.info/torrent/e6de095276e10755078c2bd57dd807038c33256c.html"><img src="' + url + 'img/download_torrent.png" alt="download via torrent"/></a><img src="' + url + 'img/download_plik_1.png" onclick="javascript:rozwin(1);"><br/> <div id="1" class="download_link_list"><fieldset>http://www9.multiupload.com/files/RIITQIIFUF/ProEvolutionSoccer4PL.rar <br/>http://depositfiles.com/en/files/1xagmrhjr <br/>http://jumbofiles.com/3nsjg6znk30o<br/>http://www.megaupload.com/?d=IE408BLJ <br/>http://www.storage.to/get/LRIeat1u/ProEvolutionSoccer4PL.rar <br/>http://www.multiupload.com/RIITQIIFUF <br/>http://www.multiupload.com/BD_RIITQIIFUF<br/>http://depositfiles.com/en/files/qgsnj9zu1<br/> http://www.megaupload.com/?d=AUZ2DNU1 <br/></fieldset></div><br/>Pamiêtaj! Pliki ¶ci±gasz na w³asn± odpowiedzialno¶æ. Je¶li nie posiadasz orygina³u tego pliku lub programu, natychmiast opu¶æ t± stronê. W przeciwnym razie pliki które ¶ci±gasz bêda traktowane jako kopia.', 'Pobierz gre: Pro Evolution Soccer 4', 230, 170);
+                return false;
+            }
+            if (id == 3) {
+                return $.showAkModal('<div class="admin_list"><fieldset>1) <b>Opiekunowie</b><br/>&nbsp;&nbsp;&nbsp;Tomek Tristan (trist) - 6806271 - tomektristan3@gmail.com <br/>&nbsp;&nbsp;&nbsp;Andrzej (andy) - 11693776 - wolanowski20@wp.pl <br/>&nbsp;&nbsp;&nbsp;Rafal (FOX) - 8147292 -  rafa_84@onet.eu <br/>&nbsp;&nbsp;&nbsp;Pesarena.pl (arena) - 11693776 - pesarena@gmail.com <br/>&nbsp;&nbsp;<a href="http://www.pesarena.pl/redakcja.htm">Informacje o wszystkich czlonkach naszej areny tutaj</a><br/>2) <b>Tworcy Strony</b><br/>&nbsp;&nbsp;&nbsp;Pawel Stopczynski (stopek) - 9855119 - stopek.pawel@gmail.com<br/>3) <b>Bot Pesarena.pl</b><br/>Je¶li chcia³by¶ byæ na bie¿±co z nowo¶ciami, chcia³by¶ dowiadywaæ sie o nadchodz±cych imprezach koniecznie dodaj ten numer do swojej listy kontaktów gg. Od czasu do czasu otrzymasz od nas jak±¶ wiadomo¶æ. Wiadomo¶ci z bota wysy³ane s± automatycznie ze strony. Numer ten s³u¿y tylko do wysy³ania wiadomo¶ci.<br/></fieldset></div><div><img src="' + url + 'img/pesarena_bot.png" alt="Pro Evolution Soccer : Bot Logo"/></div>', 'Kontakt', 230, 170);
+                return false;
+            }
+            if (id == 5) {
+                return $.showAkModal('<div class="admin_list"><p style="text-align:left;"><span style="color:#f0ffff;"><span style="font-size:12px;"><span style="font-family:verdana,geneva,sans-serif;  text-align:left; float:left;">Witaj graczu. Aby u³atwiæ Ci start przygotowaliœmy kr&oacute;tk¹ œci¹ge z podstawowymi informacjami :</span></span></span></p><p><span style="color:#f0ffff;"><span style="font-size:12px;"><span style="font-family:verdana,geneva,sans-serif;"><br /><strong>1</strong>.Aktywacje konta dokonuje dw&oacute;ch Pan&oacute;w o nickach :</span></span><span style="font-size:12px;"><span style="font-family:verdana,geneva,sans-serif;"><br /><strong>[ARENA]Polana</strong> - kontakt nr gg - 617859 <br /><strong>[ARENA]MIT</strong> - kontakt nr gg - 2293798<br />Zwracaj¹c siê do nich poprosimy podaæ nastêpuj¹ce dane :<br />- login na stronce ,<br />- nr gadu-gadu ,<br />- IP znajduj¹ce siê na PesLauncherze po lewej stronie na g&oacute;rze<br /><br /><strong>2</strong>.Gramy w programie PesLauncher ,link do pobrania znajduje siê na Naszej stronce.<br />Oficjalnym pokojem serwisu jest pok&oacute;j pod nazw¹ www.PesArena.pl<br /><br /><strong>3</strong>.Aktywacje konta na forum (http://pesarena.pl/forum/)dokonuje dw&oacute;ch Pan&oacute;w o nickach :<br /><strong>[ARENA]Flaqson</strong> - kontakt nr gg - 9650751<br /><strong>[ARENA]Trist</strong> - kontakt nr gg - 6806271<br />Zwracaj¹c siê do nich prosimy podaæ sw&oacute;j login.<br /><br /><strong>4</strong>.Ka¿dy nowy gracz powinien zg³osiæ siê w celu sprawdzenia i uzyskania zgody na prawo hostowania.</span></span><span style="font-size:12px;"><span style="font-family:verdana,geneva,sans-serif;"><br />Zg³aszamy siê do 2 Pan&oacute;w [ARENA]Polana oraz [ARENA]MIT i rozgrywamy z nimi 5 min testowe mecze.<br />Jeden i drugi tester wystawia ocene za host <br />&nbsp; &nbsp; &nbsp;+ jeœli host jest dobry,<br />&nbsp; &nbsp; &nbsp;- jeœli niewystarczaj¹cy ,&nbsp;<br />&nbsp; &nbsp; &nbsp;0 - jeœli tester nie jest zdecydowany - wtakiej sytuacji prosi zg³osiæ siê ponownie w innym terminie)<br /><br />Jeœli testerzy wystawi¹ 2 plusy gracz otrzyma prawo hostowania.<br />To czy dany gracz ma pozwolenie mo¿emy sprawdziæ w profilu zawodnika.<br /><br /><strong>5</strong>.Podstawowe informacje techniczne mo¿emy uzyskaæ na stronie pod linkiem http://proevolutionsoccer-4.pl.tl/FAQ.htm .<br /><br /><strong>6</strong>.Wszystkie potrzebne programy jak i sam¹ gre mo¿emy œci¹gnaæ wchodz¹c na oficjalny pok&oacute;j serwisu www.PesArena.pl na PesLauncherze. <br />Tam po prawej stronie na g&oacute;rze znajdujê siê NIEZBÊDNIK PES4 gdzie mo¿emy œci¹gnaæ nastêpuj¹ce rzeczy:<br />- PES4 by Messi<br />- Patch 1.10<br />- Crack<br />- Roster PesArena2010 (aktualny)<br /><br /><strong>7</strong>.Nowy graczu zapisz sobie nr gadu gadu BOTA serwisu PesArena - 4682385 .<br />Bêdzie on przesy³a³ Wam najœwie¿sze informacje z serwisu m.in o zapisach i starcie poszczeg&oacute;lnych rozgrywek .<br /><br /><strong>8</strong></span></span><u><span style="font-size:12px;"><span style="font-family:verdana,geneva,sans-serif;">.</span></span></u><span style="font-size:12px;"><span style="font-family:verdana,geneva,sans-serif;">Administratorami strony s¹</span></span><u><span style="font-size:12px;"><span style="font-family:verdana,geneva,sans-serif;"> :</span></span></u><span style="font-size:12px;"><span style="font-family:verdana,geneva,sans-serif;"><br />- Stopek - kontakt nr gg - 9855119 <br />- TomekTristan - kontakt nr gg - 6806271<br />- Mielu - kontakt nr gg - 6655576 <br />- FOX - kontakt nr gg - 8147292<br />- Andy - kontakt nr gg - 11693776<br /><br /><br /></span></span></span></p></div>', 'Mini poradnik dla Swiezaka', 230, 170);
+                return false;
+            }
+        }
+
+        function rozwin(id) {
+            state = document.getElementById(id).style.display;
+            if (state == 'block') {
+                document.getElementById(id).style.display = 'none';
+            } else {
+                document.getElementById(id).style.display = 'block';
+            }
+        }
+    </script>
+
+
+    <script src="js/jquery-1.3.2.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var $a = jQuery.noConflict();
+        $a(function () {
+            $a('img').hide();//hide all the images on the page
+        });
+
+        var i = 0;//initialize
+        var int = 0;//Internet Explorer Fix
+        $a(window).bind("load", function () {//The load event will only fire if the entire page or document is fully loaded
+            var int = setInterval("doThis(i)", 100);//500 is the fade in speed in milliseconds
+        });
+
+        function doThis() {
+            var imgs = $('img').length;//count the number of images on the page
+            if (i >= imgs) {// Loop the images
+                clearInterval(int);//When it reaches the last image the loop ends
+            }
+            $a('img:hidden').eq(0).fadeIn(100);//fades in the hidden images one by one
+            i++;//add 1 to the count
+        }
+    </script>
+
+
+</head>
+
+<body>
+
+<div id="bg">
+    <div class="bg_tlo">
+        <img alt="Please Wait..." class="image-holder" src="doc/intro/img/loading.gif"/>
+        <img alt="" ismap="ismap" src="doc/intro/img/bg.png" usemap="#mape"/>
+        <map id="mape" name="mape">
+            <area alt="" class="chand" coords="422,701, 666, 770" onclick="javascript:ramka(5);" shape="rect"/>
+        </map>
+    </div>
+    <div id="menu">
+        <a href="#" title="
+				Do czego s³u¿y ten program? - 
+				<img src='doc/intro/img/pl.png' style='float:left; width:100px; margin:5px;'>
+				Peslauncher jest programem, który umo¿liwia rozgrywanie meczy online w kultow± grê <b>Pro Evolution Soccer 4</b>. 
+				Dziêki niemu spotkasz graczy z calej Polski, rozegrasz swoje pierwsze mecze, poznasz smak wirtualnej sportowej rywalizacji. 
+				Aby dowiedzieæ siê wiêcej - kliknij w ikonê! 
+				<hr class='hr_'/>
+				<img src='doc/intro/img/eng.png' style='float:left; width:100px; margin:5px;'>
+				Peslauncher is a program which enables playing the games online at a cult game <b> Pro Evolution Soccer 4 </b>.
+				Thanks to him you will meet players from all over Polish, plays its first games, know the taste of sportsmanship.
+				To learn more, click the icon!
+				<hr class='hr_'/>
+				<img src='doc/intro/img/de.png' style='float:left; width:100px; margin:5px;'>
+				Peslauncher ist ein Programm, mit dem Spielen in einem online ermöglicht Kultspiel <b> Pro Evolution Soccer 4 </b>.
+				Dank ihm werden Sie Spieler aus aller polnischen, spielt seine ersten Spiele zu erfüllen, werden Sie den Geschmack von Sportlichkeit wissen.
+				Um mehr zu erfahren, klicken Sie auf das Symbol!
+			"><img onclick="javascript:ramka(4);" src="doc/intro/img/m1.png"></a>
+        <a href="http://proevolutionsoccer-4.pl.tl/FAQ.htm" title="
+				Aby uzyskac informacje na temat konfiguracji gry, instalacji peslaunchera, uruchomienia gry i wielu wielu innych spraw kliknij w ikone.
+			"><img src="doc/intro/img/m2.png"></a>
+        <a href="#" title="Pro Evolution Soccer 4 -
+
+				<img src='doc/intro/img/pl.png' style='float:left; width:100px; margin:5px;'>
+				Je¶li jeste¶ zainteresowany t± gr± i chcia³by¶ spróbowaæ swoich si³, pobierz <b>Pro Evolution Soccer 4</b>. Pamiêtaj! Musisz posiadaæ oryginal tej gry.
+				Aby zobaczyæ wszystkie linki - kliknij w ikonê!
+				<hr class='hr_'/>
+				<img src='doc/intro/img/eng.png' style='float:left; width:100px; margin:5px;'>
+				If you are interested in this game and would like to try his hand download <b> Pro Evolution Soccer 4 </b>. Remember you must have the original of this game.
+				To see all the links, click the icon!
+				<hr class='hr_'/>
+				<img src='doc/intro/img/de.png' style='float:left; width:100px; margin:5px;'>
+				Wenn Sie Interesse an diesem Spiel und möchte seine Hand versuchen Download <b> Pro Evolution Soccer 4 </b>. Denken Sie daran, Sie müssen das Original zu diesem Spiel haben.
+				Um zu sehen, alle Links, klicken Sie auf das Symbol!
+				
+				
+				
+			"><img onclick="javascript:ramka(2);" src="doc/intro/img/m3.png"></a>
+        <a href="#" title="
+				Kontakt z administracj± - 
+					Je¶li chcia³by¶ siê dowiedzieæ wiêcej nie zastanawiaj siê d³u¿ej - pytaj! 
+					Po klikniêciu w ikonê uzyskasz dane kontaktowe osób z naszej za³ogi, którzy z chêcia udziel± Ci potrzebnej pomocy. 
+			"><img onclick="javascript:ramka(3);" src="doc/intro/img/m4.png"></a>
+
+    </div>
+    <ul id="language_bar">
+        <li><a href="witaj.d" title="
+					Witaj w www.pesarena.pl - 
+					Je¶li jeste¶ nowym graczem, chcia³by¶ siê dowiedzieæ wiêcej o tej grze, 
+					o stronie oraz o wszelkich potrzebnych programach skorzystaj z górnego menu. W przeciwnym 
+					razie aby przej¶æ dalej kliknij na flagê. 
+			"><img src="doc/intro/img/pl.png"/></a></li>
+        <li><a href="welcome.d" title="
+				Welcome to www.pesarena.pl - 
+					If you are a new player, you would like to know more about this game,
+					the site of all programs use the top menu, otherwise to go further, click on the flag. 
+					Regards crew pesarena.pl
+			"><img src="doc/intro/img/eng.png"/></a></li>
+        <li><a href="willcommen.d" title="
+				Willkommen auf www.pesarena.pl - 
+					Wenn Sie ein neuer Spieler sind, möchten Sie mehr über dieses Spiel wissen,
+					die Site für alle Programme nutzen oberen Menü, sonst weiter zu gehen, 
+					klicken Sie auf die Flagge. Regards Crew pesarena.pl
+			"><img src="doc/intro/img/de.png"/></a></li>
+    </ul>
+</div>
+</body>
+</html>

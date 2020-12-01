@@ -1,0 +1,45 @@
+
+
+Options All -Indexes
+
+DirectoryIndex index.php index.html index.htm index.php3
+
+RewriteEngine On
+RewriteBase /pesarena
+
+RewriteRule ^([^-]+)-([^-]+)-([^-]+)-([^-]+).htm$ 	index.php?opcja=$1&podmenu=$2&podopcja=$3&menu=$4 [L]
+
+RewriteRule ^([^-]+)-([^-]+)-([^-]+).htm$ 	index.php?opcja=$1&podmenu=$2&podopcja=$3 [L]
+
+RewriteRule ^([^-]+)-([^-]+).htm$ 			index.php?opcja=$1&podmenu=$2 [L]
+
+RewriteRule ^([^-]+).htm$ 					index.php?opcja=$1 [L]
+
+RewriteRule ^index.htm$ index.php [L]
+
+
+
+
+
+RewriteRule ^klany/([^/]+)/([^/]+)/([^/]+)/?$   klany.php?opt=$1&round=$2&addopt=$3 [QSA,L] 
+
+RewriteRule ^klany/([^/]+)/([^/]+)/?$           klany.php?opt=$1&round=$2 [QSA,L] 
+
+RewriteRule ^klany/([^/]+)/?$                   klany.php?opt=$1 [QSA,L] 
+
+RewriteRule ^klany/(.*)/?$                      klany.php?opt=$1 [QSA,L] 
+
+RewriteRule ^klany/?$                           klany.php [QSA,L]
+
+
+
+<files .htaccess="">  
+
+ order allow,deny  
+
+ deny from all  
+
+</files>  
+
+
+

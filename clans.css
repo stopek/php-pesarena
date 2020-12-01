@@ -1,0 +1,536 @@
+/* Reset CSS
+   ------------------------------------------------------- */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite,
+code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul,
+li, fieldset, form, label, input, textarea, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font-weight: normal;
+    font-style: normal;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+a {
+    color: #15160f;
+    text-shadow: 1px 1px 1px #efefef;
+    text-decoration: none;
+}
+
+strong {
+    font-weight: bold;
+}
+
+form {
+    display: block;
+}
+
+#content {
+    clear: both;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+#content #centerBox {
+    top: 50%;
+    left: 5px;
+    position: fixed;
+    display: block;
+    background: #272727;
+    border: 1px solid #333232;
+    padding: 20px;
+    z-index: 20;
+}
+
+#content #centerBox2 {
+    display: block;
+    background: #272727;
+    border: 1px solid #333232;
+    padding: 20px;
+    z-index: 20;
+    color: white;
+}
+
+#content #centerBox:hover {
+    background: #333232;
+}
+
+.n {
+    font: 11px verdana;
+    color: #505050;
+}
+
+
+#header {
+    width: 100%;
+    background: white;
+    z-index: 2;
+    display: block;
+    clear: both;
+    font: 14px verdana;
+}
+
+#header ul {
+    list-style: none;
+}
+
+#header ul li {
+    float: left;
+
+}
+
+#header ul li button {
+    margin-left: 0px;
+}
+
+#header ul li a button {
+    color: #15160f;
+}
+
+#header ul li a button.important-button,
+#header ul li a button.green-button {
+    color: #ffffff !important;
+}
+
+
+input, select, button {
+    background: #d2d3d0;
+    font: 13px verdana;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #c6cbc7;
+    color: #2a292e;
+    text-shadow: 1px 1px 1px #efefef;
+}
+
+input:hover, select:hover, button:hover {
+    background: #e5e4e4;
+}
+
+
+#clan_panel_login {
+    padding: 3px;
+    background: #464352;
+    color: #eae5e5;
+    font: 15px verdana;
+}
+
+#clan_panel_login div {
+    display: block;
+    background: #272727;
+    padding: 20px;
+}
+
+
+ul {
+    list-style: none;
+}
+
+button, input[type=submit], select {
+    cursor: hand;
+    cursor: pointer;
+    outline: 0px solid white;
+}
+
+.important-button {
+    background: #ae1612;
+    border: 1px solid #bb1a16;
+    color: #ffffff;
+    text-shadow: none;
+}
+
+.important-button:hover {
+    background: #b51915;
+}
+
+.important-button a {
+    color: #ffffff !important;
+    text-shadow: none;
+}
+
+
+.green-button {
+    background: #2c6d00;
+    border: 1px solid #398d02;
+    color: #ffffff;
+    text-shadow: none;
+}
+
+.green-button:hover {
+    background: #519211;
+}
+
+.green-button a {
+    color: #ffffff;
+    text-shadow: none;
+}
+
+.info-button {
+    background: #313131;
+    border: 1px solid #363636;
+    color: #ffffff;
+    text-shadow: none;
+
+}
+
+.info-button:hover {
+    background: #363636;
+    cursor: default;
+}
+
+.info-button a {
+    color: #ffffff;
+    text-shadow: none;
+}
+
+.klan_table_points {
+    margin: 0px;
+}
+
+
+.button0pkt, .button1pkt, .button3pkt {
+    text-shadow: none;
+    padding: 2px;
+    margin: 8px 0 0 0 0;
+    font: 11px verdana;
+}
+
+.button0pkt {
+    background: #ae1612;
+    border: 1px solid #bb1a16;
+    color: #e5bebd;
+}
+
+.button1pkt {
+    background: #313131;
+    border: 1px solid #363636;
+    color: #ffffff;
+}
+
+.button3pkt {
+    background: #2c6d00;
+    border: 1px solid #398d02;
+    color: #ffffff;
+}
+
+.opacity90 {
+    filter: alpha(opacity=90);
+    -moz-opacity: 0.9;
+    -khtml-opacity: 0.9;
+    opacity: 0.9;
+}
+
+.opacity40 {
+    filter: alpha(opacity=50);
+    -moz-opacity: 0.5;
+    -khtml-opacity: 0.5;
+    opacity: 0.5;
+}
+
+.opacity10 {
+    filter: alpha(opacity=10);
+    -moz-opacity: 0.1;
+    -khtml-opacity: 0.1;
+    opacity: 0.1;
+}
+
+.opacity30 {
+    filter: alpha(opacity=30);
+    -moz-opacity: 0.3;
+    -khtml-opacity: 0.3;
+    opacity: 0.3;
+}
+
+/* ustawienie naglowkow w tabelach CP*/
+table.adminFullTable.w20 td,
+table.adminFullTable.w20 th {
+    width: 16.6%;
+    text-align: left;
+    padding: 15px 0;
+}
+
+table.adminFullTable.w15 td,
+table.adminFullTable.w15 th {
+    width: 15%;
+    text-align: left;
+    padding: 15px 0;
+}
+
+table, tr, td, th, tbody, thead {
+    border: 0px solid none;
+}
+
+table.adminFullTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 10px 0px 10px 0px;
+
+    color: #2a292e;
+    font: 13px verdana;
+
+
+}
+
+table.adminFullTable.text-center {
+    text-align: center;
+}
+
+table.adminFullTable tbody, table.adminFullTable thead {
+    width: 100%;
+}
+
+table.adminFullTable th {
+    height: 23px;
+    color: #7c7c7e;
+}
+
+table.adminFullTable tr td {
+    padding: 10px 0;
+    height: 25px;
+    border-top: 2px solid #ffffff;
+}
+
+table.adminFullTable tr {
+}
+
+table.adminFullTable tr td.header {
+    background: #272727;
+}
+
+table.adminFullTable .w25 {
+    width: 25% !important;;
+}
+
+table.adminFullTable .w50 {
+    width: 50%;
+}
+
+table.adminFullTable .w8-3 {
+    width: 9.0%;
+}
+
+table thead.adminHeadersClass {
+    background: #272727;
+    height: 33px;
+    color: #ffffff;
+    text-align: left;
+}
+
+table thead.adminHeadersClass tr th {
+    padding: 10px 5px 5px 20px;
+    font: 14px "Trajan Pro";
+}
+
+table tbody tr.tableColorA {
+    background: #f3eded;
+}
+
+table tbody tr.tableColorA:hover {
+    background: #f7f2f2;
+}
+
+table tbody tr.tableColorB {
+    background: #eae5e5;
+}
+
+table tbody tr.tableColorB:hover {
+    background: #eeecec;
+}
+
+
+.confirm {
+    background: #63b711;
+    padding: 1px;
+    margin: 5px 0;
+}
+
+.confirm img {
+    display: none;
+}
+
+.confirm span {
+    color: #2a5600;
+    display: block;
+    font: 18px trajan pro;
+    text-align: center;
+    background: #6ac710;
+    padding: 15px;
+}
+
+.error {
+    background: #b71144;
+    padding: 1px;
+    margin: 5px 0;
+}
+
+.error img {
+    display: none;
+}
+
+.error span {
+    color: #ffffff;
+    display: block;
+    font: 18px trajan pro;
+    text-align: center;
+    background: #c01146;
+    padding: 15px;
+}
+
+span {
+    font: 13px verdana;
+    margin: 2px;
+}
+
+.float-right {
+    float: right;
+    display: block;
+}
+
+.float-left {
+    float: left;
+    display: block;
+}
+
+.clear-both {
+    clear: both;
+    display: block;
+}
+
+.white {
+    font: 13px verdana;
+    color: white;
+}
+
+.top-text {
+    font: 14px Trajan Pro;
+    display: block;
+}
+
+.display-table {
+    display: table;
+}
+
+.50
+-
+50
+{
+    width: 50%
+;
+}
+.margin-auto {
+    margin: auto;
+}
+
+.padding-15 {
+    padding: 20px 15px 0 0;
+    display: block;
+}
+
+
+a {
+    color: #15160f;
+    text-shadow: 1px 1px 1px #efefef;
+    text-decoration: none;
+}
+
+
+input, select, button, #centerBox {
+    -webkit-border-radius: 2px; /* Safari, Chrome */
+    -khtml-border-radius: 2px; /* Konqueror */
+    -moz-border-radius: 2px; /* Firefox */
+    border-radius: 2px;
+}
+
+
+.headersPro {
+    clear: both;
+    overflow: hidden;
+    padding-left: 100px;
+    height: 60px;
+    background: #272727;
+    margin: 5px 0;
+}
+
+.headersPro a {
+    color: white;
+    text-shadow: none;
+    font: 13px verdana;
+}
+
+.headersPro #team-logo {
+    width: 96px;
+    height: 96px;
+    margin-left: -100px;
+    float: left;
+}
+
+.headersPro.left {
+    margin-left: -100px;
+}
+
+.headersPro.typeresult input[type=text] {
+    width: 40px;
+}
+
+.headersPro.typeresult div {
+    margin: auto;
+    display: table;
+}
+
+
+#uploadFiles {
+    margin: 10px;
+}
+
+
+.tips {
+    cursor: pointer;
+}
+
+.tool-tip {
+    color: white;
+    font: 13px verdana;
+    width: 190px;
+    z-index: 13000;
+}
+
+.tool-title {
+    font-weight: bold;
+    font-size: 11px;
+    margin: 0;
+    color: #9FD4FF;
+    padding: 8px 8px 4px;
+    background: url(http://pesarena.pl/include/clans/img/bubble.png) top left;
+}
+
+.tool-text {
+    font-size: 11px;
+    padding: 10px;
+    background: url(http://pesarena.pl/include/clans/img/bubble.png) bottom right;
+}
+
+.custom-tip {
+    color: #000;
+    width: 130px;
+    z-index: 13000;
+}
+
+.custom-title {
+    font-weight: bold;
+    font-size: 11px;
+    margin: 0;
+    color: #3E4F14;
+    padding: 8px 8px 4px;
+    background: #C3DF7D;
+    border-bottom: 1px solid #B5CF74;
+}
+
+.custom-text {
+    font-size: 11px;
+    padding: 4px 8px 8px;
+    background: #CFDFA7;
+}

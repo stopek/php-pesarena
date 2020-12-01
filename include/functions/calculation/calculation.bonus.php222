@@ -1,0 +1,16 @@
+<?
+
+
+// wylicza pkt przjmujac za parametry pamieci pkt pamieci miejsc wyniki oraz $cos (co chcemy uzyskac przez ta funkcje)
+function licz_punkty($pamiec_punktow_1,$pamiec_punktow_2,$pamiec_miejsca_1,$pamiec_miejsca_2,$wynik_1,$wynik_2,$cos) 
+{
+	$ttt = array(	
+		'31' => array(1 => 300, 2=> 150 , 3 => -75),
+		'32' => array(1 => 200, 2=> 100 , 3 => -50),
+		'30' => array(1 => 150, 2=> 100 , 3 => -75),
+		'45' => array(1 => 200, 2=> 100, 3 => -50), //le
+		'44' => array(1 => 300, 2=> 150, 3 => -75) //lm
+ 	);
+
+
+	//

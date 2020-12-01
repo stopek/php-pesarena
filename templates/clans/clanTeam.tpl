@@ -1,0 +1,1 @@
+<div id="centerBox2">	<span>wykonujesz zamianê dru¿yny dla klnau: <strong>{$clanName}</strong></span>	<form method="post" action="">		<select name="team_id">			{foreach from=$teams item=vars}				<option value="{$vars.id}">{$vars.nazwa}</option>			{/foreach}		</select>		<input type="submit" name="goClanTeam" value="zmieñ dru¿ynê"/>	</form></div>

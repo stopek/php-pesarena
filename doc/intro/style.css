@@ -1,0 +1,226 @@
+/* konfiguracja wyskakujacych okienek */
+#ak_modal_div {
+    width: 600px;
+    color: white;
+    position: absolute;
+    z-index: 1000;
+    display: none;
+    background-image: url(img/bg_.png);
+    margin: auto;
+    padding: 5px;
+    font-family: tahoma;
+    text-align: center;
+}
+
+.image-holder {
+    z-index: -1;
+    position: absolute;
+    margin-left: 490px;
+    margin-top: 250px;
+}
+
+
+#ak_modal_div iframe {
+    width: 595px;
+    height: 400px;
+    border-width: 0px;
+}
+
+#intro_naglowek {
+    width: 600px;
+    background: #292929;
+    height: 30px;
+}
+
+#intro_naglowek span {
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px;
+    font-size: 10px;
+    font-size: 15px;
+}
+
+#close {
+    cursor: pointer;
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+
+.chand {
+    cursor: pointer;
+    cursor: hand;
+}
+
+
+/* konfiguracja listy opiekunow i administratorow */
+.admin_list {
+    font-size: 14px;
+    text-align: left;
+    width: 600px;
+    background-image: url(img/white_.png);
+    font-family: verdana;
+    color: white;
+}
+
+.admin_list a {
+    color: #b0b0b0;
+}
+
+.admin_list fieldset {
+    border-width: 1px;
+    border-color: #121212;
+}
+
+
+/* konfiguracja textu o peslauncherze */
+.pt_list {
+    font-size: 14px;
+    text-align: left;
+    width: 550px;
+    background-image: url(img/white_.png);
+    font-family: verdana;
+    color: white;
+}
+
+.pt_list fieldset {
+    border-width: 1px;
+    border-color: #121212;
+}
+
+
+/* konfiguracja listy linkow */
+.download_link_list {
+    font-size: 14px;
+    text-align: left;
+    width: 590px;
+    background-image: url(img/white_.png);
+    font-family: verdana;
+    color: white;
+    display: none;
+}
+
+.download_link_list a {
+    color: #b0b0b0;
+}
+
+.download_link_list fieldset {
+    border-width: 1px;
+    border-color: #121212;
+}
+
+
+body {
+    background-image: url(img/tlo.gif);
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+/* konfiguracja strony */
+#bg {
+    width: 1085px;
+    height: 786px;
+    margin: auto;
+    margin-top: 0px;
+    text-align: left;
+    font: tahoma 11px;
+
+}
+
+
+/* konfiguracja menu gornego */
+#menu {
+    height: 84px;
+    width: 590px;
+    text-align: center;
+    background: url(img/tlo_menu.png) no-repeat;
+    margin: auto;
+    padding: 0px;
+    z-index: 9999;
+    position: absolute;
+    margin-left: 190px;
+
+    text-align: center;
+}
+
+
+img {
+    border: 0px;
+}
+
+.hr_ {
+    clear: both;
+    border: 1px solid #6f2c6f;
+}
+
+img {
+    border: 0px;
+}
+
+h1 {
+    line-height: normal;
+    font-size: 10px;
+}
+
+
+/* konfiguracja chmurek widocznych po najechaniu na flagi i menu gorne */
+#tooltip {
+    position: absolute;
+    z-index: 3000;
+    border: 1px solid #6f2c6f;
+    background-color: #54135b;
+    padding: 5px;
+    font-family: verdana;
+    font-size: 11px;
+    opacity: 0.85;
+    color: white;
+    max-width: 400px;
+    width: 400px;
+    text-align: left;
+}
+
+#tooltip h3 {
+    margin: 5px;
+
+    color: white;
+    line-height: normal;
+    font-family: verdana;
+    font-size: 14px;
+}
+
+
+/* konfiguracja obrazka z glownym obrazkiem intro */
+.bg_tlo {
+    position: absolute;
+    margin: auto;
+    width: 1085px;
+    height: 786px;
+}
+
+/* konfiguracja flag */
+#language_bar {
+    width: 700px;
+    height: 188px;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 502px;
+
+    text-align: center;
+}
+
+#language_bar li {
+    float: left;
+    margin: auto;
+    margin-right: 20px;
+    margin-left: 22px;
+    margin-top: 30px;
+    list-style: none;
+}
+	
+	
+	
+	
